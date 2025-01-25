@@ -21,3 +21,44 @@ Run the script using: ```python currency_converter.py```
 - Enter the target currency (e.g., INR, GBP).
 - Input the amount to convert.
 - The program will display the converted amount.
+
+<h3>Below is a sample of this project</h3>
+
+1. Clone the repository:
+
+```git clone https://github.com/your-username/currency-converter.git```
+
+```cd currency-converter```
+
+2. Run the script:
+
+```python currency_converter.py```
+
+3. Follow the on-screen prompts:
+    - Enter the currency you have (e.g., USD, EUR, GBP, INR).
+    - Enter the target currency you want to convert to.
+    - Input the amount you'd like to convert.
+
+4. View the converted amount and choose to continue or exit.
+
+<h4>Example Usage:</h4>
+
+```Welcome to the Currency Converter!```
+
+```Available currencies: USD, EUR, GBP, INR```
+
+```Enter the currency you have (e.g. USD, EUR): USD```
+
+```Enter the currency to convert to (e.g. GBP, INR): EUR```
+
+```Enter the amount in USD: 100```
+
+```100 USD is equal to 91.0 EUR.```
+
+```Would you like to perform another conversion? (yes/no): no```
+
+```Thank you for using the Currency Converter!```
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
