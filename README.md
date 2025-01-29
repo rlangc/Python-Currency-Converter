@@ -59,6 +59,28 @@ Run the script using: ```python currency_converter.py```
 
 ```Thank you for using the Currency Converter!```
 
+<h2>Visuals:</h2>
+
+<p align="center">
+It welcomes you, showcases availble currency coversions and starts by asking what currency you have: <br/>
+<img src="https://imgur.com/mBIPndW.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It asks what currency you want to convert: <br/>
+<img src="https://imgur.com/z6lGuko.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It asks what currency you want to convert to: <br/>
+<img src="https://imgur.com/G1tE2Ew.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It asks amount currency you to convert: <br/>
+<img src="https://imgur.com/bajHcs5.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+<br />
+<br />
+It provides the converted amount and asks if you would like to do another conversion: <br/>
+<img src="https://imgur.com/UpSbUxq.png" height="80%" width="80%" alt="Welcome to the Secure Password Generator"/>
+
 <h2></h2>
 <p align="center">
   <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
